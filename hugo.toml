@@ -1,0 +1,27 @@
+theme = 'hello-friend-ng'
+
+# Main configuration for the hello-friend-ng theme's parameters.
+[params]
+  # Enable the theme toggle button in the top right corner.
+  # This is the key to making the button appear.
+  enableThemeToggle = true
+
+  # Set the default theme for new visitors.
+  # Can be "light", "dark", or "auto".
+  # "auto" will respect the visitor's OS/browser preference.
+  # You wanted dark mode, so we'll set it to "dark".
+  defaultTheme = "dark"
+
+[params.home]
+  profile = false
+  posts = true
+  
+[menu]
+#  [[menu.main]]
+#    identifier = "about"
+#    name = "About"
+#    url = "/about"
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts"
