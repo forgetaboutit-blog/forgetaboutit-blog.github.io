@@ -7,6 +7,9 @@ images:
 tags:
   - untagged
 ---
-this is a test post!!!!!
+
+The blog's aim is to cover everything related to Hackthebox's CBBH path. 
+Will try and share some tips and nuggets along the way.
+
 
 
