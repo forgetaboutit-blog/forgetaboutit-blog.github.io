@@ -1,10 +1,10 @@
 ---
-title: "Creative"
+title: "Creative thinking"
 date: 2025-09-08T11:37:17Z
 draft: false
 toc: false
 images:
-tags: CBBH, htb cbbh exam, creative thinking, blackbox
+tags: 
   - untagged
 ---
 
@@ -14,13 +14,4 @@ I found the following video nicely explain "Creative thinking" by Professor Po-S
 
 How to be a creative thinker | Carnegie Mellon University Po-Shen Loh
 
-{{< rawhtml >}} 
-
-<video width=100% controls autoplay>
-    <source src="https://www.youtube.com/watch?v=JpYA7WXkHyI" type="video/mp4">
-    Your browser does not support the video tag.  
-</video>
-
-{{< /rawhtml >}}
-
-
+{{< youtube JpYA7WXkHyI >}}
