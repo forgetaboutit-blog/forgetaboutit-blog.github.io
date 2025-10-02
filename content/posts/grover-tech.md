@@ -8,7 +8,7 @@ tags:
   - untagged
 ---
 
-![Grover tech](/static/images/tech.jpg)
+![Grover tech](/images/tech.jpeg)
 
 What is Grover?
 
