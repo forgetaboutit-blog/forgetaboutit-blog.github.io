@@ -1,7 +1,61 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>untagged on</title><link>/tags/untagged/</link><description>Recent content in untagged on</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Thu, 02 Oct 2025 13:02:09 +0000</lastBuildDate><atom:link href="/tags/untagged/index.xml" rel="self" type="application/rss+xml"/><item><title>Grover Tech</title><link>/posts/grover-tech/</link><pubDate>Thu, 02 Oct 2025 13:02:09 +0000</pubDate><guid>/posts/grover-tech/</guid><description>What is Grover?
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>untagged on </title>
+    <link>/tags/untagged/</link>
+    <description>Recent content in untagged on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 02 Oct 2025 13:02:09 +0000</lastBuildDate><atom:link href="/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Grover Tech</title>
+      <link>/posts/grover-tech/</link>
+      <pubDate>Thu, 02 Oct 2025 13:02:09 +0000</pubDate>
+      
+      <guid>/posts/grover-tech/</guid>
+      <description>What is Grover?
 Grover is like Netflix for gadgets. Instead of buying expensive tech outright, you rent it for a flexible monthly fee. They’ve got pretty much everything — phones, laptops, tablets, gaming consoles, headphones, even smart TVs. 💡 Why would you rent tech instead of buying?
-Lower upfront cost – You don’t have to drop €1,000 on a laptop or console. Instead, you pay a smaller monthly fee. Flexibility – Need something for 1 month, 3 months, or longer?</description></item><item><title>Exam Monitoring Script</title><link>/posts/exam-monitoring-script/</link><pubDate>Thu, 02 Oct 2025 12:56:06 +0000</pubDate><guid>/posts/exam-monitoring-script/</guid><description>On Friday 25 September I completed the exam and submitted the report! Managed to get 9 flags. Must admit the report writing is the hard part and don&amp;rsquo;t wait until last minute to start working on the report. Try and capture the steps and screenshots throughout the engagement. After anxiously waiting for the results I decided to modify an existing python script to monitor the exam result. As to give something back to the community I adjusted it to make use of Mailgun - to send the email.</description></item><item><title>Creative thinking</title><link>/posts/creative/</link><pubDate>Mon, 08 Sep 2025 11:37:17 +0000</pubDate><guid>/posts/creative/</guid><description>One will need creative thinking to tackle some of the vulnerabilties in the CBBH exam. This is especially true as you will need to be thinking about chaining as well. None of the targets would be expliotable with just running automated tools. There&amp;rsquo;s also the extra difficulty of &amp;ldquo;chaining&amp;rdquo; vulns. I found the following video nicely explain &amp;ldquo;Creative thinking&amp;rdquo; by Professor Po-Shen from the Carnegie Mellon University.
-How to be a creative thinker | Carnegie Mellon University Po-Shen Loh</description></item><item><title>Hello World</title><link>/posts/hello-world/</link><pubDate>Thu, 04 Sep 2025 09:03:34 +0000</pubDate><guid>/posts/hello-world/</guid><description>The blog&amp;rsquo;s aim is to cover everything related to Hackthebox&amp;rsquo;s CBBH path. Will try and share some tips and nuggets along the way.</description></item><item><title>CBBH Tips</title><link>/posts/post1/</link><pubDate>Thu, 04 Sep 2025 08:59:29 +0000</pubDate><guid>/posts/post1/</guid><description>I feel there&amp;rsquo;s some missing pieces to HTB CBBH training. Don&amp;rsquo;t get me wrong the modules are good but in my opinion doesnt prepare you fully for the exam. I had to found out there&amp;rsquo;s some golden nugget modules available that will be an advantage to complete.
+Lower upfront cost – You don’t have to drop €1,000 on a laptop or console. Instead, you pay a smaller monthly fee. Flexibility – Need something for 1 month, 3 months, or longer?</description>
+    </item>
+    
+    <item>
+      <title>Exam Monitoring Script</title>
+      <link>/posts/exam-monitoring-script/</link>
+      <pubDate>Thu, 02 Oct 2025 12:56:06 +0000</pubDate>
+      
+      <guid>/posts/exam-monitoring-script/</guid>
+      <description>On Friday 25 September I completed the exam and submitted the report! Managed to get 9 flags. Must admit the report writing is the hard part and don&amp;rsquo;t wait until last minute to start working on the report. Try and capture the steps and screenshots throughout the engagement. After anxiously waiting for the results I decided to modify an existing python script to monitor the exam result. As to give something back to the community I adjusted it to make use of Mailgun - to send the email.</description>
+    </item>
+    
+    <item>
+      <title>Creative thinking</title>
+      <link>/posts/creative/</link>
+      <pubDate>Mon, 08 Sep 2025 11:37:17 +0000</pubDate>
+      
+      <guid>/posts/creative/</guid>
+      <description>One will need creative thinking to tackle some of the vulnerabilties in the CBBH exam. This is especially true as you will need to be thinking about chaining as well. None of the targets would be expliotable with just running automated tools. There&amp;rsquo;s also the extra difficulty of &amp;ldquo;chaining&amp;rdquo; vulns. I found the following video nicely explain &amp;ldquo;Creative thinking&amp;rdquo; by Professor Po-Shen from the Carnegie Mellon University.
+How to be a creative thinker | Carnegie Mellon University Po-Shen Loh</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>/posts/hello-world/</link>
+      <pubDate>Thu, 04 Sep 2025 09:03:34 +0000</pubDate>
+      
+      <guid>/posts/hello-world/</guid>
+      <description>The blog&amp;rsquo;s aim is to cover everything related to Hackthebox&amp;rsquo;s CBBH path. Will try and share some tips and nuggets along the way.</description>
+    </item>
+    
+    <item>
+      <title>CBBH Tips</title>
+      <link>/posts/post1/</link>
+      <pubDate>Thu, 04 Sep 2025 08:59:29 +0000</pubDate>
+      
+      <guid>/posts/post1/</guid>
+      <description>I feel there&amp;rsquo;s some missing pieces to HTB CBBH training. Don&amp;rsquo;t get me wrong the modules are good but in my opinion doesnt prepare you fully for the exam. I had to found out there&amp;rsquo;s some golden nugget modules available that will be an advantage to complete.
 Take a look at the learning process module:
 https://sleeperhacks.gitbook.io/htb-academy-walkthroughs/other-modules/learning-process
-The other module that was also mentioned by someone else, unfortunately I couldn&amp;rsquo;t recall but seems to be also valuable for learning black box testing.</description></item></channel></rss>
+The other module that was also mentioned by someone else, unfortunately I couldn&amp;rsquo;t recall but seems to be also valuable for learning black box testing.</description>
+    </item>
+    
+  </channel>
+</rss>
