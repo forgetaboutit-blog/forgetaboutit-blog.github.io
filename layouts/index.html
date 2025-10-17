@@ -1,6 +1,6 @@
 {{ define "main" }}
   <div class="posts">
-    {{ range (where .Site.RegularPages "Section" "posts") }}
+    {{ range (where .Site.RegularPages "Type" "posts") }}
       <article class="post on-list">
         <h1 class="post-title">
           <a href="{{ .RelPermalink }}">{{ .Title }}</a>
